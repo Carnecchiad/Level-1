@@ -1,5 +1,6 @@
 package Package;
 public class Dog {
+	
 	int numTeeth;
 	String name;
 	boolean hair;
